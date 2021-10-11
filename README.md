@@ -7,7 +7,11 @@
 - Passed Class 12 (Computer Science with Physics, Chemistry, Mathematics and English) and Class 10 from Kendriya Vidyalaya Barrackpore Air Force in 2013 and 2011 respectively. 
 - 👀 I’m interested in blockchain technology, cloud computing, E-governance.
 - 🌱 I’m currently learning blockchain technology
-- 💞️ I’m working on voting framework, vaccine distribution in blockchain technology
+- 💞️ I’m working on Blockchain Technology: 
+-       voting framework, 
+-       vaccine distribution, 
+-       Distribution of Food and Essential Commodities by Organization in Public Distribution Shop
+-       Land Registration using standard ERC1155 token
 - 📫 How to reach me ... +91 8250184021, rrajdeep2@gmail.com
 
 <!---
