@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RAJDEEP ROY.
 - Date of Birth - 16th March 1996
 - Country - India
-- I I had completed Master of Technology in Computer Science and Engineering from University of Kalyani, West Bengal, India in 2021.
+- Done an internship with Codezero2pi Solution Pvt Ltd an unit of Rapid Innovation from 4 October 2021 to 28 January 2022
+- I had completed Master of Technology in Computer Science and Engineering from University of Kalyani, West Bengal, India in 2021.
 - I had completed Master of Computer Application in Computer Application from University of Kalyani, West Bengal, India in 2019.
 - I had completed Bachelor of Science (Honours) in Computer Science from Bangabasi Morning College, University of Calcutta, West Bengal, India in 2016.
 - Passed Class 12 (Computer Science with Physics, Chemistry, Mathematics and English) and Class 10 from Kendriya Vidyalaya Barrackpore Air Force in 2013 and 2011 respectively. 
