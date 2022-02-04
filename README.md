@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RAJDEEP ROY.
 - Date of Birth - 16th March 1996
 - Country - India
+-  How to reach me ... +91 8250184021, rrajdeep2@gmail.com
 - Done an internship with Codezero2pi Solution Pvt Ltd an unit of Rapid Innovation from 4 October 2021 to 28 January 2022
 - I had completed Master of Technology in Computer Science and Engineering from University of Kalyani, West Bengal, India in 2021.
 - I had completed Master of Computer Application in Computer Application from University of Kalyani, West Bengal, India in 2019.
@@ -9,11 +10,8 @@
 - 👀 I’m interested in blockchain technology, cloud computing, E-governance.
 - 🌱 I’m currently learning blockchain technology
 - 💞️ I’m working on Blockchain Technology: 
--       voting framework, 
--       vaccine distribution, 
--       Distribution of Food and Essential Commodities by Organization in Public Distribution Shop
--       Land Registration using standard ERC1155 token
-- 📫 How to reach me ... +91 8250184021, rrajdeep2@gmail.com
+-     voting framework, vaccine distribution, Distribution of Food and Essential Commodities from Public Distribution Shop, Land Registration using standard ERC1155 token
+- 📫
 
 <!---
 RAJDEEPROY1996/RAJDEEPROY1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
