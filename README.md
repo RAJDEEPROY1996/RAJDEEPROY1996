@@ -1,16 +1,16 @@
-- 👋 Hi, I’m @RAJDEEP ROY.
+- 👋 Hi, I’m RAJDEEP ROY.
 - Date of Birth - 16th March 1996
 - Country - India
 -  How to reach me ... +91 8250184021, rrajdeep2@gmail.com
+- Currently working as a Blockchain developer in NFT Studio Pvt Ltd.
 - Done an internship with Codezero2pi Solution Pvt Ltd an unit of Rapid Innovation from 4 October 2021 to 28 January 2022
 - I had completed Master of Technology in Computer Science and Engineering from University of Kalyani, West Bengal, India in 2021.
 - I had completed Master of Computer Application in Computer Application from University of Kalyani, West Bengal, India in 2019.
 - I had completed Bachelor of Science (Honours) in Computer Science from Bangabasi Morning College, University of Calcutta, West Bengal, India in 2016.
 - Passed Class 12 (Computer Science with Physics, Chemistry, Mathematics and English) and Class 10 from Kendriya Vidyalaya Barrackpore Air Force in 2013 and 2011 respectively. 
 - 👀 I’m interested in blockchain technology, cloud computing, E-governance.
-- 🌱 I’m currently learning blockchain technology
-- 💞️ I’m working on Blockchain Technology: 
--     voting framework, vaccine distribution, Distribution of Food and Essential Commodities from Public Distribution Shop, Land Registration using standard ERC1155 token
+- 🌱 - 💞️ I had created different contracts using Blockchain technology. Below are given some of them:
+-     ERC 20 token, ERC721 NFT, Land Registration using standard ERC1155 token, voting framework, vaccine distribution, Distribution of Food and Essential Commodities from Public Distribution Shop, NFT marketplace 
 - 📫
 
 <!---
