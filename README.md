@@ -2,8 +2,7 @@
 - Date of Birth - 16th March 1996
 - Country - India
 -  How to reach me ... +91 8250184021, rrajdeep2@gmail.com
-- Currently working as a Blockchain Developer in My Next Film Pvt Ltd from Sep 20, 2022 to Present.
-- Worked as Blockchain developer in NFT Studio Pvt Ltd from Feb 2022 to Sep 19, 2022.
+- Currently working as Blockchain developer in NFT Studio Pvt Ltd from Feb 2022 to Present.
 - Done an internship with Codezero2pi Solution Pvt Ltd an unit of Rapid Innovation from 4 October 2021 to 28 January 2022
 - I had completed Master of Technology in Computer Science and Engineering from University of Kalyani, West Bengal, India in 2021.
 - I had completed Master of Computer Application in Computer Application from University of Kalyani, West Bengal, India in 2019.
