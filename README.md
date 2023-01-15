@@ -11,7 +11,8 @@
 - 👀 I’m interested in blockchain technology, cloud computing, E-governance.
 - 🌱 - 💞️ I had created different contracts using Blockchain technology. Below are given some of them:
 -     ERC 20 token, ERC721 NFT, Land Registration using standard ERC1155 token, voting framework, vaccine distribution, Distribution of Food and Essential Commodities from Public Distribution Shop, NFT marketplace 
-- 📫
+- Published paper on Public Distribution System - https://link.springer.com/chapter/10.1007/978-3-031-22950-3_3
+- 
 
 <!---
 RAJDEEPROY1996/RAJDEEPROY1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
